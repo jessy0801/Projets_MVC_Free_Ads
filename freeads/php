@@ -1,0 +1,1 @@
+<?php mail('tibemamypp-2086@yopmail.com','Comfirmation Creation compte', 'test',   = 'From: webmaster@example.com' . rn .); ?>
